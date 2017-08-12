@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # 2017-08-11 nginx-srvname-patcher.py
-# Florian Paul Hoberg <florian@hoberg.ch>
+# Florian Paul Hoberg
 # This will patch your nginx binary file
 # from Server: nginx to Server: B00B
 # You can change B00B to anything else
